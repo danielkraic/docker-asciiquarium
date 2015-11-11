@@ -1,8 +1,8 @@
-# docker-asciiquarium
+### docker-asciiquarium
 
 Dockerfile for asciiquarium
 
-## Info
+### Info
 
 #### Asciiquarium
 
@@ -12,13 +12,13 @@ http://www.robobunny.com/projects/asciiquarium/html/
 
 https://hub.docker.com/r/danielkraic/asciiquarium/
 
-## Run image
+### Run image
 
 ```bash
 docker run -it --rm danielkraic/asciiquarium
 ```
 
-## Build image
+### Build image
 
 #### Clone repo
 
